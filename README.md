@@ -1,19 +1,7 @@
-**Name:** GOKARAM DINESH GOUD 
-
-**Company:** CODTECH IT SOLUTIONS
-
-**ID:** CT6WDSC 
-
-**Domain:** Python Programming 
-
-**Duration:** Dec 2024 to Feb 2025 
-
-**Mentor:** SRAVANI GOUNI
-
 # Library Management System
 
 ## Overview
-The **Library Management System** is a Python program designed to manage library resources, including books, magazines, and DVDs. The system supports functionalities like adding new items, checking out and returning items, managing overdue fines, and searching for resources. This project is ideal for demonstrating your programming and problem-solving skills to recruiters.
+The **Library Management System** is a Python program designed to manage library resources, including books, magazines, and DVDs. The system supports functionalities like adding new items, checking out and returning items, managing overdue fines, and searching for resources. 
 
 ## Features
 - **Resource Management**: Add and store details of books, magazines, and DVDs.
